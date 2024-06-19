@@ -1,0 +1,4850 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLAY SYSTEM "play.dtd">
+<PLAY>
+	<TITLE></TITLE>
+	<SPEECH>
+		<SPEAKER>INTERCOM VOICE</SPEAKER>
+		<RECEIVER>UNKNOWN</RECEIVER>
+		<LINE>All personnel, evacuation order has been confirmed. Proceed to your designated vehicles...  A man flushes people by. The sign on the building reads:  JOINT DARK ENERGY MISSION; WESTERN DIVISION; PROJECT PEGASUS, NASA SPACE RADIATION FACILITY, S.H.I.E.L.D</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>ACCELERATOR TEST FACILITY</SPEAKER>
+		<RECEIVER>INTERCOM VOICE</RECEIVER>
+		<LINE></LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>INTERCOM VOICE</SPEAKER>
+		<RECEIVER>ACCELERATOR TEST FACILITY</RECEIVER>
+		<LINE>...for all campus evacuation. </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>INTERCOM VOICE</RECEIVER>
+		<LINE>How bad is it?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>That’s the problem, sir. We don’t know.  5</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>...energy surge from the Tesseract four hours ago.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>NASA didn’t authorize Selvig could go to test B.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>He wasn’t testing it. He wasn’t even in the room. Spontaneous event.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>MARIA HILL</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>It just turned itself on?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>MARIA HILL</RECEIVER>
+		<LINE>Where are the energy levels now?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Climbing. When Selvig couldn’t shut it down we ordered evac.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>How long to get everyone out?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Campus should be clear in the next half hour.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>Do better.  Fury and Hill continue on as Coulson turns around and heads the other way.  7</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>MARIA HILL</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Sir, evacuation may be futile.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>MARIA HILL</RECEIVER>
+		<LINE>We should tell them to go back to sleep?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>MARIA HILL</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>If we can’t control the Tesseract’s energy there may not be a minimum safe distance.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>MARIA HILL</RECEIVER>
+		<LINE>I need you to make sure the Phase Two prototypes are shipped out.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>MARIA HILL</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Sir, is that really a priority right now?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>MARIA HILL</RECEIVER>
+		<LINE>Until such time as the world ends we will act as though it intends to spin on. Clear out the tech below. Every piece of Phase Two on a truck and gone.  /LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>MARIA HILL</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Yes, Sir. (to guards) With me.  Fury enters the Tesseract room.  8</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>MARIA HILL</RECEIVER>
+		<LINE>Talk to me, Doctor.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SELVIG</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Director.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>SELVIG</RECEIVER>
+		<LINE>Is there anything we know for certain?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SELVIG</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>The Tesseract is misbehaving.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>SELVIG</RECEIVER>
+		<LINE>Is that supposed to be funny?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SELVIG</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>No, it’s not funny at all. The Tesseract is not only active, she’s misbehaving.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>SELVIG</RECEIVER>
+		<LINE>How soon can you pull the plug?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SELVIG</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>She’s an energy source. We turn off the power, she turns it back on. If she reaches peak level-</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>SELVIG</RECEIVER>
+		<LINE>We prepared for this, Doctor. Harnessing energy from space.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SELVIG</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>We don’t have the harness. My calculations are far from complete. She’s throwing off interference, radiation. Nothing harmful, low levels of Gamma radiation.  /LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>SELVIG</RECEIVER>
+		<LINE>That can be harmful. Where’s agent Barton?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SELVIG</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>The hawk? Up in his nest, as usual.  CLINT BARTON, also known as HAWKEYE, is on a balcony, observing the lab.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>SELVIG</RECEIVER>
+		<LINE>(over Barton’s radio) Agent Barton. Report.  Barton zip-lines down a rope.  FURY (V.O) (sturn) I gave you this detail so you could keep a close eye on things.  Fury and Barton walk together toward the Tesseract machine.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>I see better from a distance.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>Have you seen anything that might set this thing off?  A NASA SCIENTIST calls for Selvig.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NASA SCIENTIST</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Doctor! It’s spiking again.  Barton and Fury step onto the platform, in front of the Tesseract machine.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>NASA SCIENTIST</RECEIVER>
+		<LINE>No one’s come and gone. And Selvig’s clean. No contacts, no IM. If there’s any tampering, sir, it wasn’t this end.  While Barton is talking Selvig walks over to the computer where the NASA SCIENTIST is. He looks concerned and worried.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>(a little confused) At this end?  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Yeah. The Cube is a doorway to the other end of space, right? Doors open from both sides.  The Cube sparks.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SELVIG</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>What’s that?  It sparks again.  9</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>SELVIG</RECEIVER>
+		<LINE>(to Loki) Sir, please put down the spear!  Loki looks at his scepter then fires a stream on blue light from it. Barton pushes Fury out the way. The guards open fire. Loki jumps at them, firing more energy and fighting. Shooting scientists and agents. Barton moves towards him but Loki grabs his arm.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>You have heart.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>(to Fury, turning around) Please don’t. I still need that.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>This doesn’t have to get any messier.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Of course it does. I’ve come too far for anything else. I am Loki, of Asgard. And I am burdened with glorious purpose.  Selvig, checking the pulse of NASA SCIENTIST, hears and approaches.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SELVIG</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>Loki, brother of Thor?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>SELVIG</RECEIVER>
+		<LINE>We have no quarrel with your people.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>An ant has no quarrel with a boot.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>You planning to step on us?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>I come with glad tidings, of a world made free.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>Free from what?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Freedom. Freedom is life’s great lie. Once you accept that, in your heart-  Loki turns and places the spear tip on Selvig’s chest. -you will know peace.  Barton sees the Tesseract portal cloud, brewing and moves to Loki.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>Yeah, you say peace. I kinda think you mean the other thing.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>(to Loki) Sir, Director Fury is stalling. This place is about to blow and drop a hundred feet of rock on us. He means to bury us.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>Like the pharaohs of old.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SELVIG</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>He’s right. The portal is collapsing in on itself. We’ve got maybe two minutes before this goes critical.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>SELVIG</RECEIVER>
+		<LINE>Well then.  Barton quickly draws his gun and shoots Fury, who drops the case. Barton picks up as he, Loki, Selvig and another agent leave the room.  12</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>We need this vehicles.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>MARIA HILL</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>(seeing Loki) Who’s that?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>MARIA HILL</RECEIVER>
+		<LINE>Didn’t tell me.  The roof is slowly crumbling. Loki gets onto a SHIELD pickup truck. Selvig enters the passenger seat, holding the case.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>(over Hill’s radio) Hill!   9.  13</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>(into his radio) Do you copy?  14</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>(over Hill’s radio) Barton...has turned.  Barton pulls his gun and fires at Hill, who rolls behind the back room wall and returns fire. Barton enters the driver’s seat of the pickup and drives off with Loki is in the bed.  15</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>(into radio) Get the Tesseract. Shut them down.  16</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>(to guards) Let’s just go. No-no-no! Leave it, leave it. GO!   10.  20</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>(into radio) We’re clear upstairs, sir...  22</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>(over Fury’s radio) Director.  BEGIN INTERCUT: FURY / TRUCK CANOPY / UNDERGROUND TUNNEL  AGENT COULSON (CONT’D) (into radio) Director Fury, do you copy?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>(into radio) The Tesseract is with a hostile force. I have men down. Hill?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>MARIA HILL</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>(into radio; getting out of crushed jeep) A lot of men still under. Don’t know how many survivors.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>MARIA HILL</RECEIVER>
+		<LINE>(over Hill’s radio) Sound a general call. I want every living soul...</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>(into radio) ...not working rescue looking for that briefcase.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>MARIA HILL</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>(into radio) Roger that.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>MARIA HILL</RECEIVER>
+		<LINE>(into radio) Coulson, get back to base.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>(over Coulson’s radio) This is a level seven.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>(over Hill’s radio) As of right now...</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>(into his radio) We are at war.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>(into his radio) What do we do?  Fury thinks, as the CAMERA GOES TIGHT on him.  TITLE CARD: Marvel’s THE AVENGERS  30</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>GEORGI LUCHKOV</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>(in Russian) This isn’t how I wanted this evening to go.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>GEORGI LUCHKOV</RECEIVER>
+		<LINE>(in Russian) I know how you wanted this evening. Believe me this is better.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>GEORGI LUCHKOV</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>(in Russian) Who are you working for? Lermentov, yes?  TALL THUG walks over to Natasha and leans the chair over a pit. She becomes scared.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>GEORGI LUCHKOV</RECEIVER>
+		<LINE>(in Russian) I thought General Solohob is in charge of the export business.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>GEORGI LUCHKOV</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>(in Russian) Solohob. A bagman, a front. Your outdated information betrays you. The famous Black Widow is just another pretty face.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>GEORGI LUCHKOV</RECEIVER>
+		<LINE>(in Russian) You really think I’m pretty?  TALL THUG grabs her jaw and forces it open as Luchkov walks to the table behind him.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>GEORGI LUCHKOV</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>(in Russian) Tell Lermentov we don’t need him to move the tanks. Tell him he is out. Well...  Luchkov picks up a tool of the table and plays with it. ...You may have to write it.  Suddenly a phone rings. WEASELLY THUG answers his phone.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>WEASELLY THUG</SPEAKER>
+		<RECEIVER>GEORGI LUCHKOV</RECEIVER>
+		<LINE>It’s for her.  Luchkov takes the phone.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>GEORGI LUCHKOV</SPEAKER>
+		<RECEIVER>WEASELLY THUG</RECEIVER>
+		<LINE>(in Russian; into cell) You listen carefully-  AGENT COULSON (V.O) (over the cell) You’re at 1- 14 Silensky Plaza, 3rd floor. We have an F-22 exactly eight miles out. Put the woman on the phone or I will blow up the block before you can make the lobby.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>GEORGI LUCHKOV</RECEIVER>
+		<LINE>(into cell) Are you kidding? I’m working.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>(over the cell) This takes precedence.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>(into cell) I’m in the middle of an interrogation, and this moron is giving me everything.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>GEORGI LUCHKOV</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>(to Tall Thug) I not- give everything.  Natasha gives Luchkov a look.  BEGIN INTERCUT: COULSON / NATASHA</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>GEORGI LUCHKOV</RECEIVER>
+		<LINE>(into cell) Look, you can’t pull me out of this right now.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>(into cell) Natasha...Barton’s been compromised.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>(into cell) Let me put you on hold.  Luchkov moves in for the cell phone. Natasha kicks him between the legs and headbutts him. WEASELLY THUG swings his fist at her and she kicks him back. TALL THUG runs up and she spins around -- and the chair legs hit him.  WEASELLY THUG jumps to his feet. Natasha rolls with the chair and drops the legs on his feet. She whips her head at him and hits him in the nose then trips him.  As she fights the TALL THUG, Coulson listens to the fight over the phone. He stands quiet -- waiting as he hears the groaning, kicking, and punching.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>(over cell) We don’t know.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>But he’s alive?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>(into phone) We think so.  Coulson is looking at a screen that’s playing a video of Hawkeye & Black Widow in Budapest. We’ll brief you on everything when you get back.  Coulson is handed a folder. He walks down some stairs as he talks. But first, we need you to talk to the big guy.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>(into cell) Coulson, you know that Stark trusts me about as far as he can throw me.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Oh I’ve got Stark! You get the big guy.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>END INTERCUT</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>Natasha stops in her tracks, shocked at what Coulson has just said.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>END INTERCUT</RECEIVER>
+		<LINE>(in Russian; quietly) My God.  31</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CALCUTTA WOMAN</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>(in Hindi) Who are you? Get out! There is sickness here!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>YOUNG GIRL</SPEAKER>
+		<RECEIVER>CALCUTTA WOMAN</RECEIVER>
+		<LINE>(very fast in Hindi) Are you the doctor? I need a doctor. My father. My father’s not waking up! He has a fever and he’s moaning but his eyes won’t open.  Banner hears and moves over to the YOUNG GIRL. He kneels before her.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>YOUNG GIRL</RECEIVER>
+		<LINE>(in Hindi) Slow down.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>YOUNG GIRL</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>(in Hindi) My father-</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>YOUNG GIRL</RECEIVER>
+		<LINE>(in Hindi) Like them?  Banner points to the people in the house that are sick. YOUNG GIRL nods and holds up a wad of cash.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>YOUNG GIRL</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>(in Hindi; emotion) Please!   17.  32</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>YOUNG GIRL</RECEIVER>
+		<LINE>(quietly to himself) Should have got paid upfront Banner.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>You know, for a man who’s supposed to be...  Natasha reveals herself to Banner from behind a curtain.  NATASHA (CONT’D) ...avoiding stress, you picked a hell of a place to settle.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>(putting his bag down) Avoiding stress isn’t the secret.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Then what is it? Yoga?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>And you brought me to the end of the city. Smart. (peeping through the window) I- uh- I assume the whole place is surrounded.  Natasha removes her scarf.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Just you and me.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>And your actress buddy? She a spy too, they start that wrong?  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>(a little nervous) I did.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Who are you?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Natasha Romanoff.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Are you here to kill me, Ms Romanoff? ’Cause that’s not going to work out for everyone.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>No, no. Of course not. I’m here on behalf of SHIELD.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>(a little mad) SHIELD. How’d they find me?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>We never lost you, Doctor. We’ve kept our distance, even helped keep some other interested parties off your scent.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Why?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Nick Fury seems to trust you. But now we need you to come in.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>What if I say no?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>(seductive, sturn, smiling) I’ll persuade you.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>(a little sad and reluctant) And what if the- Other Guy says no?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>You’ve been more than a year without an incident. I don’t think you want to break that streak.  Banner pushes at an old wooden cradle, it creaks.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Well, I don’t every time get what I want.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Doctor, we’re facing a potential global catastrophe.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>(chuckles) Oh those I actively try to avoid.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>This (takes a seat) is the Tesseract.  Natasha slides a cell phone along the table. On it is an image of the Tesseract. It has the potential energy to wipe out the planet.  Banner puts on his glasses, approaches and picks up the touch screen cell phone.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>What does Fury want me to do? Swallow it?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>He wants you to find it. It’s been taken. It emits a Gamma signature that’s too weak for us to trace. No one knows Gamma radiation like you do. If there was, that’s where I’d be.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>So Fury isn’t after the monster?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Not that he’s told me.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>And he tells you everything?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Talk to Fury, he needs you on this.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>(immediate response) He needs me in a cage?  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>No one’s going to put you in a-</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>STOP LYING TO ME!  Banner yells, crashing his hands down on the table. Natasha stands, pulling a gun and aims at him. He draws back, smiling. I’m sorry. That was mean. (smiles) I just wanted to see what you’d do.  Natasha stares at him, a little teary, scared out of her mind. Why don’t we do this the easy way where you don’t use that and the- Other Guy doesn’t make a mess? Okay?....Natasha.  Natasha lowers her weapon and speaks into an earpiece.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>(quietly into her earpiece) Stand down. We’re good here.  The horde of armed guards surrounding the shack lower their weapons.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Just you and me?  Natasha realizes he knows and stands silent.  34</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>COUNCILMAN</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>This is out of line, Director. You’re dealing with forces you can’t control.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>COUNCILMAN</RECEIVER>
+		<LINE>You ever been in a war, councilman? In a fire fight? Did you feel an over abundance of control?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>COUNCILMAN</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>You’re saying that this Asgard is declaring war on our planet?  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>COUNCILMAN</RECEIVER>
+		<LINE>Not Asgard, Loki.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>COUNCILWOMAN</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>He can’t be working alone. What about the other one, his brother?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>COUNCILWOMAN</RECEIVER>
+		<LINE>Our intelligence says Thor is not a hostile. But he’s worlds away and we can’t depend on him to help either. It’s up to us.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>COUNCILMAN</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Which is why you should be focusing on Phase Two, it was designed for exactly this purpose.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>COUNCILMAN</RECEIVER>
+		<LINE>Phase Two isn’t ready; our enemy is. We need a response team.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>COUNCILMAN</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>The Avengers Initiative was shut down.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>COUNCILMAN</RECEIVER>
+		<LINE>This isn’t about the Avengers.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>COUNCILMAN</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>We’re running the world’s greatest covert security network and you’re gonna leave the fate of the human race to a handful of freaks.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>COUNCILMAN</RECEIVER>
+		<LINE>I’m not leaving anything to anyone. We need a response team. These people may be isolated, unbalanced even, but I believe, with the right push, they can be exactly what we need.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>COUNCILWOMAN</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>You believe!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>COUNCILMAN</SPEAKER>
+		<RECEIVER>COUNCILWOMAN</RECEIVER>
+		<LINE>War isn’t won by sentiment, Director.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>COUNCILMAN</RECEIVER>
+		<LINE>No, It’s won by soldiers.   22.  35</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>(across the room) Trouble sleeping?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>(hitting the bag) Slept for seventy years, Sir. I think I’ve had my fill.  Fury slowly approaches Steve.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Then you should be out, celebrating, seeing the world.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>When I went under, the world was at war. I wake up- they say we won. They didn’t say what we lost.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>We’ve made some mistakes along the way, some very recently.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>(removing hand wrap) You here with a mission, Sir?  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>I am.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>(removing other hand wrap) Trying to get me back in the world?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Trying to save it.  Fury hands Steve a folder with information on the Tesseract in it.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>HYDRA’s secret weapon.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Howard Stark fished that out of the ocean when he was looking for you. He thought what we think. The Tesseract could be the key to unlimited sustainable energy. That’s something the world sorely needs.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Who took it from you?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>He’s called Loki. He’s- not from around here. There’s a lot we’ll have to bring you up to speed on if you’re in. The world has gotten even stranger than you already know.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>At this point I doubt anything would surprise me.  Steve gets up, grabs his duffel bag, and another punching bag while Fury is talking.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Ten bucks says you’re wrong. There’s a debriefing packet waiting for you back at your apartment. Is there anything you can tell us about the Tesseract that we ought to know now?  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>You should have left it in the ocean.  Steve exits.  36</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>IRON MAN</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Good to go on this end. The rest is up to you.  PEPPER (V.O) (over Iron Man headset) You disconnected the transmission lines? Are we off the grid?  INSIDE IRON MAN HEADSET:</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>IRON MAN</RECEIVER>
+		<LINE>(into headset) Stark Tower’s about to become a beacon of self-sustaining clean energy.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>PEPPER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>(on Iron Man HUD display) Well, assuming the arc reactor takes over and it actually works.  37</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>PEPPER</RECEIVER>
+		<LINE>(into headset) ...but with more- me.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>PEPPER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>(on Iron Man HUD display) We’ve got to go wider on the public awareness campaign. You need to do some press.  Iron Man flies over a overpass & up the side of Stark Tower.  PEPPER (V.O) (over Iron Man headset) I’m in DC tomorrow. I’m working on the zoning for the next three buildings.  TONY (V.O) (over Iron Man headset) Pepper, you’re killing me at the moment. Remember, enjoy the moment.  39</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>JARVIS</SPEAKER>
+		<RECEIVER>PEPPER</RECEIVER>
+		<LINE>Sir, Agent Coulson of SHIELD is on the line.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>JARVIS</RECEIVER>
+		<LINE>I’m not in. I’m actually out.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>JARVIS</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Sir, I’m afraid he’s insisting.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>JARVIS</RECEIVER>
+		<LINE>Grow a spine, JARVIS. I got a date.   26.  40</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>PEPPER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Levels are holding steady- I think.  Tony approaches Pepper.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>PEPPER</RECEIVER>
+		<LINE>Of course they are, I was directly involved. Which leads me to my next question. How does it feel to be a genius?  Tony turns off the display and Pepper and he face each other.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>PEPPER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Well, ah, I really wouldn’t know now would I?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>PEPPER</RECEIVER>
+		<LINE>What do you mean? All this came from you.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>PEPPER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>No, all this came from that.  Pepper taps Tony’s arc reactor.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>PEPPER</RECEIVER>
+		<LINE>Give yourself some credit, please. Stark Tower is your baby. Give yourself- twelve percent of the credit.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>PEPPER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Twelve percent?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>PEPPER</RECEIVER>
+		<LINE>An argument can be made for fifteen.  Pepper walks toward the living room.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>PEPPER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Twelve percent of my baby?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>PEPPER</RECEIVER>
+		<LINE>(following Pepper) Well, I did do all the heavy lifting. Literally, I lifted the heavy things and sorry but, the security snafu? That was on you.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>PEPPER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Oh!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>PEPPER</RECEIVER>
+		<LINE>My private elevator.  Pepper pours champagne in two glasses.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>PEPPER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>You mean our elevator.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>PEPPER</RECEIVER>
+		<LINE>Yeah, it was teeming with sweaty workmen. I’m going to pay for that comment about percentages in some subtle way later aren’t I?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>PEPPER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Not gonna be that subtle.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>PEPPER</RECEIVER>
+		<LINE>I’ll tell you what, next building is gonna say ’Potts’ on the tower.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>PEPPER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>On the lease!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>PEPPER</RECEIVER>
+		<LINE>Call your mum, can you bunk over?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>JARVIS</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Sir, the telephone. I’m afraid my protocols are being overridden.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>JARVIS</RECEIVER>
+		<LINE>Ah-  Tony picks up his high-tech phone and holds up.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>(on phone screen) Mr. Stark, we need to talk.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>You have reached the Life Model Decoy of Tony Stark. Please leave a message.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>(on phone screen) This is urgent.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>Then leave it urgently.  The elevator opens and Coulson comes out. Security breach. (to Pepper) That’s on you!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>PEPPER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Phil! Come in!  Pepper and Tony walk over to Coulson, who is entering</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>PEPPER</RECEIVER>
+		<LINE>Phil?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>I can’t stay.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>Uh, his first name is Agent.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>PEPPER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Come on in, we’re celebrating.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>PEPPER</RECEIVER>
+		<LINE>(fake smiling) Which is why he can’t stay.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>(handing Tony the laptop) We need you to look this over, as soon as possible.  Tony stares at the laptop.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>I don’t like being handed things.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>PEPPER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>That’s fine because I love to be handed things. So, let’s trade.  Pepper swaps with Coulson -- he has with her glass and she has the laptop. She then takes Tony’s glass and passes the laptop on to him. Thank you.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>PEPPER</RECEIVER>
+		<LINE>Official consulting hours are between eight and five every other Thursday.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>This isn’t a consultation.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>PEPPER</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>Is this about the Avengers?  Coulson looks at Pepper Which I know nothing about.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>PEPPER</RECEIVER>
+		<LINE>The Avengers Initiative was scrapped, I thought, and I didn’t even qualify.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>PEPPER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>I didn’t know that either.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>PEPPER</RECEIVER>
+		<LINE>Yeah, apparently I’m volatile, self-obsessed, don’t play well with others.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>PEPPER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>That I did know.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>PEPPER</RECEIVER>
+		<LINE>This isn’t about personality profiles anymore.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>Whatever! Ms. Potts, got a sec?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>PEPPER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Half a moment.  Pepper leaves Coulson at the door and goes over to Tony.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>PEPPER</RECEIVER>
+		<LINE>You know, I thought we were having a moment.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>PEPPER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>I was having twelve percent of a moment.  Tony gives Pepper a look. This seems serious. Phil looks pretty shaken.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>PEPPER</RECEIVER>
+		<LINE>How would you notice- why is he Phil?  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>PEPPER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>What is all this?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>PEPPER</RECEIVER>
+		<LINE>This is- ah...  Tony grabs the holograms on the laptop and throws them up. Holograms fill the room, each is a article on one of the Avengers. ...this!  They both look upon the screens, observing them.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>PEPPER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>I’m going to take the jet to DC tonight.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>PEPPER</RECEIVER>
+		<LINE>Tomorrow.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>PEPPER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>You have homework. You have a lot of homework.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>PEPPER</RECEIVER>
+		<LINE>Well, what if I didn’t?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>PEPPER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>If you didn’t? You mean when you finished? Well, um, then-  She leans in and whispers in Tony’s ear.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>PEPPER</RECEIVER>
+		<LINE>Square deal. Fly safe.  They kiss. Coulson looks away.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>PEPPER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Work hard. (approaching Coulson) So, any chance you’re driving by LaGuardia?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>PEPPER</RECEIVER>
+		<LINE>I can drop you off.  PEPPER (O.S) Fantastic. Ooh, I want to hear about the ah- cellist, is that still a thing?  As they are talking, Tony sees the Tesseract -- It peaks his interest.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>PEPPER</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>What?...Boo.  41</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FACELESS PILOT</SPEAKER>
+		<RECEIVER>PEPPER</RECEIVER>
+		<LINE>(to Coulson) We’re about forty minutes out from home base, Sir.  Coulson stands from a chair and walks over to Steve.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>FACELESS PILOT</RECEIVER>
+		<LINE>So, this Doctor Banner was trying to replicate the serum they used on me?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>A lot of people were. You were the world’s first superhero. Banner thought Gamma radiation might hold the key to unlocking Erskine’s original formula.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>Didn’t really go his way, did it?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Not so much. When he’s not that thing though, guy’s like a Stephen Hawking.  Rogers looks confused. He’s like a- smart person. I gotta say- it’s an honor to meet you, officially. I sort of met you, I mean, I watched you while you were sleeping. I mean, I was, I was present, while you were unconscious from-the-ice.  Steve moves over to the cockpit and Coulson follows (MORE)  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>Well, I hope I’m the man for the job.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Oh you are, absolutely. Ah- we made some modifications to the uniform. I had a little design input.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>The uniform? Aren’t the stars and stripes a little...old-fashioned?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Everything that’s happening, the things that are about to come to light, people might just need a little old-fashioned.  43</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THE OTHER</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>The Chitauri grow restless.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>THE OTHER</RECEIVER>
+		<LINE>Let them goad themselves. I will lead them in a glorious battle.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THE OTHER</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>Battle? Against the meager might of Earth.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>THE OTHER</RECEIVER>
+		<LINE>Glorious not lengthy- if your force is as formidable as you claim.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THE OTHER</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>You question us? You question him? He who out the scepter in your hand, who gave you ancient knowledge and new purpose? When you were cast out- defeated!  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>THE OTHER</RECEIVER>
+		<LINE>I was a king! The rightful king of Asgard, betrayed.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THE OTHER</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>Your ambition is little, full of childish need. We look beyond the Earth to greater worlds the Tesseract will unveil.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>THE OTHER</RECEIVER>
+		<LINE>You don’t have the Tesseract yet.  The Chitauri creature lunges at Loki, hissing. I don’t threaten. But until I open the doors, until your force is mine to command, you are but words.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THE OTHER</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>You will have your war, Asgardian. If you fail, if the Tesseract is kept from us, there will be no realm, no barren moon, no crevice, where he cannot find you. You think you know pain? He will make you long for something as sweet as pain.  45</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>THE OTHER</RECEIVER>
+		<LINE>Agent Romanoff- Captain Rogers.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>Ma’am.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Hi. (to Coulson) They need you on the bridge; they’re starting the face trace.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>See you there.  Coulson, leaves as Natasha and Steve get to know each other while walking.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>It was quite the buzz around here, finding you in the ice. Thought Coulson was gonna swoon. Did he ask you to sign his Captain America trading cards yet?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Trading cards?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>They’re vintage. He’s very proud.  They see Banner who is bumping into people while he observes the carrier.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Doctor Banner.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Oh, yeah, hi. They told me you’d be coming.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Word is you can find the Cube.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Is that the only word on me?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Only word I care about.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Must be strange for you, all of this.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Well, this is actually kind of familiar.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Gentlemen, you might wanna step inside in a minute. It’s gonna get a little had to breathe.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>HELICARRIER INTERCOM</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Flight Mode. Secure the deck.  There is a loud whirring and clunking sound and Banner and Rodgers make their way to the edge of the helicarrier.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>HELICARRIER INTERCOM</RECEIVER>
+		<LINE>Is this a submarine?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Really, they want me in a submerged pressurized metal container?  Propellers begin to spin and the carrier begins to lift into the air. Oh no, this is much worse.  The helicarrier begins ascending higher and higher.  48</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CARRIER BRIDGE</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>TECH 1 Maximum performance take off, increase output to capacity.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BRIDGE TECH</SPEAKER>
+		<RECEIVER>FEMALE CARRIER</RECEIVER>
+		<LINE>Power plant performing at capacity. We are clear.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>MARIA HILL</SPEAKER>
+		<RECEIVER>BRIDGE TECH</RECEIVER>
+		<LINE>All engines operating. SHIELD emergency protocol one nine three point six in effect. (to Fury) We’re at level, sir.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>MARIA HILL</RECEIVER>
+		<LINE>Good! Let’s vanish.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>MARIA HILL</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Engage retro reflection panels.  49</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>MARIA HILL</RECEIVER>
+		<LINE>(to Steve and Banner) Gentlemen.  Steve slips Fury the ten dollars he bet earlier, in regards to nothing being able to surprise him. (to Banner) Doctor, thank you for coming.  Banner shakes Fury’s hand.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Thanks for asking nicely. So, um, how long am I staying?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Once we get our hands on the Tesseract, you’re in the wind.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Well where are you with that?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>We’re sweeping every wirelessly accessible camera on the planet. Cell phones...  Steve stands in the b.g. confused of what’s being said. While Coulson is talking, Natasha moves over to a computer screen where we see Barton’s face trace in progress. She checks the stats. ...laptops, if it’s connected to a satellite, it’s eyes and ears for us.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>It’s still not gonna find them in time.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>You have to narrow your field. How many Spectrometers do you have access to?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>How many are there?  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Call every lab you know. Tell them to put the Spectrometers on the roof and calibrate them for Gamma rays. I’ll rough out a tracking algorithm, basic cluster recognition. At least we could rule out a few places. Do you have somewhere for me to work?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Agent Romanoff, would you show Doctor Banner to his laboratory, please?  Natasha walks over to Banner and they begin walking out of the bridge area.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>You’re gonna love it, Doc. We got all the toys.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Really? Do you have the com-meter sixty-four?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>I’m not sure-</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>(cutting her off) Oh you’re very young.  Fury walks up to Hill.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Hill, did you tell the council that Barton had been compromised?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>MARIA HILL</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Was that not procedure?  Fury walks off the bridge and onto the air deck, where he looks out.  MARIA HILL (CONT’D) Did you tell them who exactly is on your response team?  Fury looks over his shoulder.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>MARIA HILL</RECEIVER>
+		<LINE>Doesn’t appear that I have to.  51</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SELVIG</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Put it over there. (to Barton) Where did you find all these people?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>SELVIG</RECEIVER>
+		<LINE>SHIELD has no shortage of enemies, Doctor. This the stuff you need?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SELVIG</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>Yeah. Iridium. It’s found in meteorites, it forms anti-protons. It’s very hard to get hold of.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>SELVIG</RECEIVER>
+		<LINE>Especially if SHIELD knows you need it.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SELVIG</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>Well, I didn’t know.  Loki walks up. (to Loki) Hey! This is wonderful. The Tesseract has shown me so much. It’s- it’s more than knowledge, it’s truth.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>SELVIG</RECEIVER>
+		<LINE>I know. It, ah- it touches everyone differently. (to Barton) What did it show you Agent Barton?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>My next target.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SELVIG</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>(laughing) Stick in the mud. He’s got no soul. No wonder you chose this, this tomb to work in.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>SELVIG</RECEIVER>
+		<LINE>(snapping) Well, the Radisson doesn’t have three levels of lead lined flooring between SHIELD and that Cube.  Selvig walks back to the machine he was working on.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>I see why Fury chose you to guard it.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>You’re going to have to contend with him sir. As long as he’s in the air, I can’t pin him down. And he’ll be putting together a team.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>Are they a threat?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>To each other more than likely. But if Fury can get ’em on track, and he might, they could throw some noise our way.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>You admire Fury.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>He’s got a clear line of sight.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>Is that why you failed to kill him?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>It might be. I was disoriented, and I’m not at my best with a gun.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>I want to know everything you can tell me about this team of his. I would- test their mettle.  Barton nods. I am weary of scuttling in shadow. I mean to rule this world, not burrow in it.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>That’s a risk  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>Oh yes.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>If you’re set on making yourself known. I could be useful.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>Tell me what you need.  Barton walks over to a small case, opens it, then takes out his bow. He flicks it open.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>I need a distraction. And an eyeball.  52</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>I mean, if it’s not too much trouble.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>No-no, it’s fine.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>It’s a vintage set. Took me a couple of years to collect them all. Near mint, slight foxing around the edges but-</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT JASPER SITWELL</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>We got a hit. Sixty seven percent match. Wait- cross-match, seventy nine percent.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>AGENT JASPER SITWELL</RECEIVER>
+		<LINE>Location?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT JASPER SITWELL</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>Stuttgart, Germany. Twenty eight, Königstraße. He’s not exactly hiding.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>AGENT JASPER SITWELL</RECEIVER>
+		<LINE>Captain, you’re up.  Steve nods and walks off.   41.  53</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Kneel before me. I said- KNEEL!  The people hurry, dropping to their knees. (walking through the mob) Is not this simpler? Is this not your natural state? It’s the unspoken truth of humanity, that you crave subjugation. The bright lure of freedom diminishes your life’s joy in a mad scramble for power, for identity. You were made- to be ruled. In the end- you will always kneel.  A German old man gets to his feet.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>GERMAN OLD MAN</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>Not to men like you.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>GERMAN OLD MAN</RECEIVER>
+		<LINE>There are no men like me.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>GERMAN OLD MAN</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>There are always men like you.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>GERMAN OLD MAN</RECEIVER>
+		<LINE>Look to your elder, people. Let him be an example.  Loki fires his scepter but Captain America jumps in front of the man -- deflecting the beam off his shield causing it to hit Loki, who falls to the ground.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>You know, the last time I was in Germany and saw a man standing above everybody else, we ended up disagreeing.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>The soldier-  Loki rises to his feet. -the man out of time.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>I’m not the one who’s out of time.  The quinjet comes in behind Cap with Black Widow inside. A gun unfolds from the underside of the plane.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>(over speaker) Loki, drop the weapon and stand down.  Loki fires at the jet and it banks hard to avoid it. Cap attacks Loki and the two fight. Loki knocks Cap’s shield to the side and forces him down with his scepter.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Kneel!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>Not today.  Cap jumps up and does a spin-kick to Loki’s face. The two continue to fight.  63</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>(to co-pilot) Guy’s all over the place.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>(over earpiece) Agent Romanoff, you miss me?  The computer screen shows the message ’PA SYSTEMS OVERRIDE’, and AC/DC’s, ’Shoot to Thrill’ begins to play. Natasha smiles heavily. Iron Man flies down and fires a repulsor blast, knocking Loki down.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>IRON MAN</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Make a move reindeer games.  Loki’s Asgardian garb fades away and he raises his hands. Good move.  Cap walks over to Iron Man. The quinjet begins to land in the b.g.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>IRON MAN</RECEIVER>
+		<LINE>Mister Stark.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>IRON MAN</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>Captain.  64</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>IRON MAN</RECEIVER>
+		<LINE>(over quinjet radio) He saying anything?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>(into headset) Not a word.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>(over quinjet radio) Just get him here, we’re low on time.  66</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>I don’t like it.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>What? Rock of Ages giving up so easily?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>I don’t remember it being that easy. This guy packs a wallop.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Still, you were pretty spry, for an older fellow. What’s your thing? Pilates?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>What?  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>It’s like calisthenics. You might have missed a couple of things. Y’know, doing time as a Cap-sicle.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Fury didn’t tell me he was calling you in.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Yeah, there’s a lot of things Fury doesn’t tell you.  There’s a flash of lightening and a roar of thunder.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Where’s this come from?  Loki leans forward, looking around.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>(to Loki) What’s the matter? Scared of a little lightening?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>I’m not overly fond of what follows.  Loki looks to the sky.  67</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>What are you doing?  Thor enters, jumping down on the ramp. He hits Iron Man away, causing him to fall on Cap. He grabs Loki by the neck and jumps out of the plane.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>IRON MAN</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>Now there’s that guy.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>IRON MAN</RECEIVER>
+		<LINE>Another Asgardian?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>That guy’s a friendly.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>Doesn’t matter. If he frees Loki, or kills him, the Tesseract’s lost.  Iron Man begins walking to the edge of the ramp.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Stark, we need a plan of attack.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>IRON MAN</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>I have a plan. Attack!  Iron Man flies out of the jet and Cap makes for a parachute.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>IRON MAN</RECEIVER>
+		<LINE>I’d sit this one out, Cap.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>I don’t see how I can.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>These guys come from legend, they’re basically Gods.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>There’s only one God ma’am, and I’m pretty sure he doesn’t dress like that.  Cap straps on the chute, grabs his shield, and dives out the plane, head first.   47.  71</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>Where is the Tesseract?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>Oh-ho, I missed you too.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>Do I look to be in a gaming mood?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>Oh, you should thank me. With the Bifrost gone, how many dark energy did the All-Father have to muster to conjure you here? Your precious Earth.  Thor drops his hammer, Mjolnir, and pulls Loki to his feet.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>I thought you dead.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>Did you mourn?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>We all did. Our father-</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>Your father. He did tell you my true parentage, did he not?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>We were raised together, we played together, we fought together. Do you remember none of that?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>I remember a shadow, living in the shade of your greatness. I remember you tossing me into an abyss. I who was and should be king!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>So you take the world I love as recompense for your imagined slights? No. The Earth is under my protection, Loki.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>Well yes.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>Then you miss the truth of ruling, brother. Throne would suit you ill.  Loki pushes past Thor and walks away, Thor follows.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>I’ve seen worlds you’ve never known about. I have grown, Odinson, in my exile. I have seen the true power of the Tesseract, and when I wield it-</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>Who showed you this power? Who controls the would-be-king?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>I am a king!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>Not here. You give up the Tesseract; you give up this poisonous dream! You come home.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>I don’t have it.  Thor summons Mjolnir and holds it ready. You need the Cube to bring me home but I’ve sent it off I know not where.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>You listen well brother-  Iron Man flies in, knocking him and Thor out of frame. Loki stands waiting.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>I’m listening?  72</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>Do not touch me again.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>Then don’t take my stuff.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>You have no idea what you’re dealing with.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>Uh- Shakespeare in the park? Doth mother know you wear-th her drapes?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>This is beyond you, metal man. Loki will face Asgardian justice.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>He gives up the Cube, he’s all yours. Until then-  Faceplate drops.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>IRON MAN</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>-stay out of the way.  Iron Man takes a few steps. Tourist.  Thor throws Mjolnir, hitting Iron Man square in the chest, sending him flying, landing on his back.  INSIDE IRON MAN HELMET:</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>IRON MAN</RECEIVER>
+		<LINE>Okay!  BACK TO SCENE:  Loki smirks from the cliff top as Thor summons Mjolnir then swings it in circles. Iron Man gets to his feet and fires a repulse blast at Thor, then flies at him, kicking him through a tree.  Thor stands, summoning a bolt of lightning as Loki watches in the distance. Thor sends the bolt at Iron Man.  INSIDE IRON MAN HELMET:</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>JARVIS</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Power at four hundred percent capacity.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>JARVIS</RECEIVER>
+		<LINE>How bout that?  BACK TO SCENE:  Iron Man fires at Thor. The two stand ready then fly at each other, smashing through the trees and scraping up a cliff side.  Trees are toppled as they crash to the forest grounds. Thor and Iron Man stand quickly. Thor sends in a left hook so Iron Man is about to punch but Thor grabs his fist. Iron Man is about to send in his left hook and Thor grabs that too.  Thor begins to crush Iron Man’s right gauntlet with ease.  INSIDE IRON MAN HELMET:  Tony looks at the HUD which is alerting him. He groans and thinks.  BACK TO SCENE:  Iron Man lifts his palm, that is being crushed, and he fires a blast at Thor’s face -- it does nothing to Thor so he head butts him. Thor headbutts him back. Iron Man flies back, coming to a stop before launching himself at Thor.  Iron Man throws Thor into a broken tree. Thor then stands and the two go at it for a bit longer -- a fist fight. Thor summons his hammer about to slam down on the chest of Tony but Iron Man ditches, causing Thor to fall.  Behind the rising Thor, Iron Man swoops in and punches him. They get ready to sends blows at each other until Cap’s shield ricochets off both their chest.  CAPTAIN AMERICA (O.S) Hey!  Cap catches his shield.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>That’s enough!  He jumps down of the tree and approaches Thor and Iron Man. Now I don’t know what you plan on doing here-</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>I’ve come here to put an end to Loki’s schemes!  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>Then prove it. Put that hammer down.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>IRON MAN</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>Uh, yeah! No! Bad call, he loves his hammer-  Thor swings his hammer back, sending Iron Man behind him.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>IRON MAN</RECEIVER>
+		<LINE>You want me to put hammer down?  Thor leaps, swinging Mjolnir, Cap raises the shield over his head. When the two connect there is a loud boom and a flash of light. The three are thrown backwards. They slowly get to their feet and come together.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>Are we done here?  Thor looks around.  73</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>In case it’s unclear, you try to escape- you so much as scratch that glass-  Fury pushes a button and the floor beneath the cell drops away to nothing, the wind screams. Thirty thousand feet straight down in a steel trap. You get how that works?  He pushes a button and closes the floor. He gestures first to Loki. Ant. (gestures to panel) Boot.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>It’s an impressive cage. Not built, I think, for me.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>Built for something a lot stronger than you.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Oh I’ve heard. (turns to a camera)...  76</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>Ooh. It burns you to have come so close, to have the Tesseract, to have power- unlimited power, and for what? (smiles and faces the camera) A...  78</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>Well, let me know if ’real power’ wants a magazine or something.  Fury exits.  80</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>He really grows on you doesn’t he?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Loki’s gonna drag this out. So, Thor, what’s his play?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>He has an army called the Chitauri. They’re not of Asgard nor any world known. He means to lead the against your people. They will win him the Earth, in return, I suspect, for the Tesseract.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>An army, from outer space?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>So, he’s building another portal. That’s what he needs Erik Selvig for.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Selvig?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>He’s an astrophysicist.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>He’s a friend.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>Loki has them under some kind of spell- along with one of ours.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>I wanna know why Loki let us take him. He’s not leading an army from here.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>I don’t think we should be focusing on Loki. That guy’s brain is a bag full of cats, you can small crazy on him.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Have care how you speak. Loki is beyond reason but he is of Asgard, and he is my brother.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>He killed eighty people in two days.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>He’s adopted?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>I think it’s about the mechanics. Iridium, what do they need the Iridium for?  Tony and Coulson come walking in.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>It’s a stabilizing agent. (to Coulson, quietly) I’m saying, take a weekend; I’ll fly you to Portland. Keep love alive.  Coulson peels off from Tony, who is heading over to Thor. Means the portal won’t collapse on itself like it did at SHIELD. (to Thor) No hard feelings point break, you got a mean swing.  Thor gives Tony a look as he walks to the control panels.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Also, means the portal can open as wide and stay open as long as Loki wants.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>MARIA HILL</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>(attitude) He turns!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>MARIA HILL</RECEIVER>
+		<LINE>Sounds exhausting!  He begins messing with the screens, sticking something to the underside of a desk. The rest of the raw materials, Agent Barton can get his hands on pretty easily. Only major component he still needs is a power source- of high energy density. Something to- kick start the Cube.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>MARIA HILL</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>When did you become an expert in thermonuclear astrophysics?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>MARIA HILL</RECEIVER>
+		<LINE>Last night. The packet, Selvig’s notes, the extraction theory papers- am I the only one who did the reading?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Does Loki need any particular kind of power source?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>He’s have to heat the Cube to a hundred and twenty million kelvin just to break through the Coulomb barrier.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Unless, Selvig has figured out how to stabilize the Quantum Tunneling effect.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Well, if he could do that he could achieve heavy-ion fusion at any reactor on the planet.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Finally. Someone who speaks English.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>(to the others) Is that what just happened?  Stark and Banner shake hands.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>It’s good to meet you, Doctor Banner. Your work on anti-electronic collisions is unparalleled. And I’m a huge fan of the way you- lose control and turn into an enormous green rage monster.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>...Thanks.  Fury enters.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Doctor Banner is only here to track the Cube. I was hoping you might join him.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>I’d start with that stick of his. It may be magical but it works an awful lot like a HYDRA weapon.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>I don’t know about that, but it is powered by the Cube. And I like to know how Loki used it to turn two of the sharpest men I know into his personal flying monkeys.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Monkeys? I do not understand-</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>I do!  The entire room goes instantly silent, staring at Steve. (MORE)  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Shall we play, Doctor?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>This way, sir.  The two men walk off.  ON A SHIELD WORKER: He resumes play Galaga again.  81</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>The Gamma readings are definitely consistent with Selvig’s reports on the Tesseract. But it’s gonna take weeks to process.  Stark works on a screen.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>If we bypass their mainframe and direct route to the Homer cluster we can clock this at around six hundred teraflops.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>All I packed was a toothbrush.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>(giggles a bit) You know, you should come by Stark Tower some time. Top ten floors- all R and D. You’d love it, it’s a candy land.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Thanks but...last time I was in New York I kind of broke...Harlem.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Well, I promise a stress free environment. No tension, no surprises.  He zaps Banner in the side.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Ow!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Hey!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Nothing?  Steve approaches.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Are you nuts?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Jury’s out! (to Banner) You really have got a lid on it, haven’t you? What’s your secret? Mellow jazz, bongo drums, huge bag of weed?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Is everything a joke to you?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Funny things are.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Threatening the safety of everyone on this ship isn’t funny. No offense, Doc.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>No it’s alright. I wouldn’t have come aboard if I couldn’t handle pointy things.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>You’re tip-toeing, big man. You need to strut.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>And you need to focus on the problem, Mister Stark.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>You think I’m not? Why did Fury call us in? Why now, why not before? What isn’t he telling us? I can’t do the equation unless I have all the variables.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>You think Fury’s hiding something?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>He’s a spy. Captain, he’s the spy. His secrets have secrets.  He gestures to Banner. It’s bugging him to, isn’t it?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Uh, Aah, I just wanna finish my work here and-</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Doctor?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>A warm light for all mankind," Loki’s jab at Fury about the Cube.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>I heard it.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Well, I think that was meant for you.  He gestures to Stark, who offers him a blueberry. Even if Barton didn’t tell Loki about the tower, it was still all over the news.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>The Stark Tower? That big ugly-  Stark gives him a look. -building in New York?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>It’s powered by an arc reactor, self-sustaining energy source. That building will run itself for, what, a year?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>It’s just the prototype. (to Rodgers) I’m kind of the only name in clean energy right now, that’s what he’s getting at.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>So, why didn’t SHIELD bring him in on the Tesseract project? What are they even doing in the energy business in the first place?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>I should probably look into that as soon as my decryption program finishes breaking into all of SHIELD’s secure files.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>I’m sorry did you say-</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>JARVIS has been running it since I hit the bridge. In a few hours I’ll know every dirty secret SHIELD has ever tried to hide. Blueberry?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Yet you’re confused about why they didn’t want you around.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>An intelligence organization that fears intelligence? Historically, not awesome.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>I think Loki’s trying to wind us up. This is a man who means to start a war and if we don’t stay focused he’ll succeed. We have orders, we should follow them.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Following’s not really my style.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>And you’re all about style, aren’t you?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Out of the people in this room, which one is "A" wearing a spangly outfit and "B" not of use?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Steve, tell me none of this smells a little funky to you?  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Just find the Cube.  Cap exits the lab, pauses and turns, walking off in another direction.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>That’s the guy my dad never shut up about? Wondering if they shouldn’t have kept him on ice.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Guy’s not wrong about Loki, he does have the jump on us.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>What he’s got is an ACME dynamite kit. It’s gonna blow up in his face, and I’m gonna be there when it does.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>I’ll read all about it.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Mhm, or, you’ll be suiting up with the rest of us.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Now, you see I don’t get a suit of armor. I’m exposed, like a nerve, it’s a nightmare.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>You know, I’ve got a cluster shrapnel, trying every second to crawl its way into my heart. This stops it-  He taps the arc reactor. -this little circle of light. It’s part of me now, not just armor. It’s a terrible privilege.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>But you can control it.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Because I learned how.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>It’s different.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Hey, I read all about your accident. That much Gamma exposure- should’ve killed you.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>So you’re saying that the Hulk- the Other Guy- saved my life? That’s nice. That’s nice sentiment. Saved it for- what?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>I guess we’ll find out.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>You may not enjoy that.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>And you just might.  82</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>...moved Jane Foster. We’ve got an excellent observatory in Tromsø. She was asked to consult there very suddenly yesterday. Handsome fee, private plane, very remote. She’ll be safe.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>Thank you. It’s no accident Loki taking Erik Selvig. I dread what he plans for him once he’s done. Erik is a good man.  Coulson and Thor begins walking, through the bridge.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>He talks about you a lot. You changed his life. You changed everything around here.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>They were better as they were. We pretend on Asgard that we’re more advanced, but we- we come here battling like Bildschneip.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>Like what?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>Bildschneip. You know, huge, scaly, big antlers. You don’t have those?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>No.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>Huh! Well they are repulsive, and they trample everything in their path.  Thor moves over to a large window. When I first came to earth, Loki’s rage followed me here and your people paid the price. And now again. In my youth I courted war.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>War hasn’t started yet. You think you can make Loki tell us where the Tesseract is?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>I do not know. Loki’s mind is far afield, it’s not just power he craves, it’s vengeance upon me. There’s no pain would prise his need from him.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>A lot of guys think that, until the pain starts.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>What are you asking me to do?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>I’m asking, what are you prepared to do?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Loki is a prisoner.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>Then why do I feel like he’s the only person on this boat that wants to be here?  86</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Hm. There’s not many people that can sneak up on me.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>But you figured I’d come.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>After. After whatever tortures Fury can concoct, you would appear as a friend, as a balm. And I would cooperate.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>I wanna know what you’ve done to Agent Barton.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>I’d say I’ve expanded his mind.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>And once you’ve won. Once you’re king of the mountain. What happens to his mind?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Is this love, Agent Romanoff?  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>Love is for children. I owe him a debt.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Tell me.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>Before I worked for SHIELD, I uh- well, I made a name for myself. I have a very specific skill set. I didn’t care who I used it for, or on. I got on SHIELD’s radar in a bad way. Agent Barton was sent to kill me, he made a different call.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>And what will you do if I vow to spare him?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>Not let you out.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Ah, no. But I like this. Your world in the balance, and you bargain for one man?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>Regime’s fall everyday. I tend not to weep over that, I’m Russian, or I was.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>And what are you now?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>It’s really not that complicated. I got red in my ledger. I’d like to wipe it out.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Can you? Can you wipe out that much red? Drakov’s daughter? Sao Paulo? The hospital fire? Barton told me everything. Your ledger is dripping, it’s gushing red, and you think saving a man no more virtuous than yourself will change anything? This is the basest sentimentality. This is a child, a prayer. Pathetic   66.  87</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>I won’t touch Barton! Not until I make him kill you. Slowly, intimately, in every way he knows you fear.  Natasha becomes scared out of her mind. And then he’ll wake just long enough to see his good work,  Natasha turns away from Loki in horror. and when he screams I’ll split his skull! This is my bargain, you mewling quim!  Sounds of Natasha sobbing. Her head hangs low.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>You’re a monster!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>(grinning menacingly) Oh, no. You brought the monster.  Natasha lifts her head and turns to face Loki -- her face is dry.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>So, Banner? That’s your play.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>What?  Natasha begins to exit the room.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>(into earpiece) Loki means to unleash the Hulk. Keep Banner in the lab, I’m on my way. Send Thor as well.  She stops and faces Loki. Thank you, for your cooperation!  Natasha skimmers off.  91</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>What are you doing, Mr. Stark?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Uh- kind of been wondering the same thing about you.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>You’re supposed to be locating the Tesseract.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>We are, the model’s locked and we’re sweeping for the signature now. When we get a hit, we’ll have the location within half a mile.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>And you’ll get your cube back, no muss, no fuss. What is Phase Two?  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Phase Two is SHIELD used the Cube to make weapons. (to Tony) Sorry, computer was moving a little slow for me.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Rogers, we gathered everything related to the Tesseract. This does not mean that we’re-</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>I’m sorry, Nick.  Tony turns the screen towards Fury. It shows a plan for some a missile. What were you lying?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>I was wrong, Director. The world hasn’t changed a bit.  Thor and Natasha enter. Banner looks to her.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Did you know about this?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>You wanna think about removing yourself from this environment, doctor?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>(laughs) I was in Calcutta, I was pretty well removed.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Loki’s manipulating you.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>And you’ve been doing what exactly?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>You didn’t come here because I bat my eyelashes at you.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Yes, and I’m not leaving because suddenly you get a little twitchy. (MORE)  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>(pointing at Thor) Because of him.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Me?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>Last year earth had a visitor from another planet who had a grudge match that leveled a small town. We learned that not only are we not alone, but we are hopelessly- hilariously, out-gunned.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>My people want nothing but peace with your planet.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>But you’re not the only people out there, are you? And, you’re not the only threat. The world’s filling up with people who can’t be matched, they can’t be controlled.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Like you controlled the cube!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Your work with the Tesseract is what drew Loki to it, and his allies. It is the signal to all the realms that the earth is ready for A HIGHER FORM OF WAR.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>A higher form?!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>You forced our hand! We had to come up with some-</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Nuclear deterrent! ’Cause that always calms everything right down.  Everyone becomes hostile and begin cutting each other off.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Remind me again how you made your fortune, Stark?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>I’m sure if he still made weapons, Stark would be neck deep-</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Wait-Wait! Hold on! How is this now about me?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>I’m sorry, isn’t everything?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>I thought humans were more evolved than this.  Everyone begins arguing over each other.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>Excuse me, did we come to your planet and blow stuff up?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>(to Thor) Tis your champion.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>YOU’RE NOT MY CHAMPION!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Are you boys really that naive? S.H.I.E.L.D monitors potential threats.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>(to Thor and Steve) You furious? I’m furious.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>(to Natasha) And Captain America is on the threat poll?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>(to Banner) We all are!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>That’s not your concern doctor!  As they argue over one another & the scepter glows strongly.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>(to Steve) You’re on that list? Are you above or below angry bees?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>I swear to God, Stark, one more crack...  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>You’re a threat. VERBAL THREAT! I FEEL THREATENED!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>SHOW SOME RESPECT.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>RESPECT WHAT!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>(to Thor) YEAH MAN HANDLE ME NOW, THAT’LL BE GOOD!  92</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>INTERCOM VOICE</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Transport six-six-five-oh. Please relay your form code. Got you on the computer but not on the data log. What is your haul? Over.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>PILOT</SPEAKER>
+		<RECEIVER>INTERCOM VOICE</RECEIVER>
+		<LINE>Arms to ammunition. Over.  93</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>PILOT</RECEIVER>
+		<LINE>You speak of control, yet you court chaos!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>It’s his MO, isn’t it? I mean, what are we, a team? No, no, no. We’re a chemical mixture that makes chaos. We’re- we’re a time bomb.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>You need to step away.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Why shouldn’t they guy let off a little steam?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>You know damn well why! Back off!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Oh, I’m starting to want you to make me.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Yeah, big man in a suit of armor. Take that off, what are you?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Genius, billionaire, playboy, philanthropist.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>I know guys with none of that worth ten of you. I’ve seen the footage. The only thing you really fight for is yourself. You’re not the guy to make the sacrifice play, to lay down on a wire and let the other guy crawl over you.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>I think I would just cut the wire.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Always a way out. You know, you may not be a threat, but you better stop pretending to be a hero.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>A hero, like you? You’re a laboratory experiment, Rogers. Everything special about you came out of a bottle.  94</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Put on the suit, let’s go a few rounds.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>(laughs) You people are so petty, and tiny.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>Yeah, this is a team.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Agent Romanoff, would you escort Dr. Banner back to his-</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>WHERE? YOU RENTED MY ROOM!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>The cell was just-</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>IN CASE YOU NEEDED TO KILL ME. BUT YOU CAN’T, I KNOW, I TRIED!  He stops, everyone is staring at him. I got low. I didn’t see an end so I put a bullet in my mouth and the other guy spit it out. So I moved on, I focused on helping other people. I was good until you dragged me back into this freak show and put everyone here at risk. You wanna know my secret, Agent Romanoff? You wanna know how I stay calm?  Everyone is watching Banner, Fury and Natasha reach for their guns.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Doctor Banner, put down the scepter.  Banner looks down, surprised, to see the spear in his hand. The monitor makes a noise, signaling the Tesseract has been located. Banner puts the scepter back on the table and walks over to the screen on the other side of the room.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Got it!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Sorry, kids. You don’t get to see my party trick after all.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Located the Tesseract?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>I can get there faster.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Look, all of us-</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NOVAR</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>The Tesseract belongs on Asgard, no human is a match for it.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>NOVAR</RECEIVER>
+		<LINE>You’re not going alone!  Tony smacks his hand.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>You gonna stop me?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Put on the suit, let’s find out!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>I’m not afraid to hit an old man.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Put on the suit.  Banner sees something on the monitor.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Oh-my-god.  96</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Put on the suit.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Yep.  Steve helps Tony up and the run out of the lab.  101</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>INTERCOM VOICE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>All hands engaged.  The whole place is hectic.  102</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>INTERCOM VOICE</RECEIVER>
+		<LINE>(into earpiece) Hill!  104</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>MARIA HILL</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Number Three engine is down.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FEMALE CARRIER BRIDGE TECH</SPEAKER>
+		<RECEIVER>MARIA HILL</RECEIVER>
+		<LINE>We’ve been hit.  Hill runs over to a bridge tech’s station.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>MARIA HILL</SPEAKER>
+		<RECEIVER>FEMALE CARRIER BRIDGE TECH</RECEIVER>
+		<LINE>Did we get a run in? Talk to me.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>OFF SCREEN WORKER</SPEAKER>
+		<RECEIVER>MARIA HILL</RECEIVER>
+		<LINE>We got a fire in Engine Three.  CARRIER BRIDGE TECH 1 The line looks mostly in tact but it’s impossible to get out there to make repairs while we’re in the air.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>MARIA HILL</SPEAKER>
+		<RECEIVER>OFF SCREEN WORKER</RECEIVER>
+		<LINE>We lose one more engine we won’t be. (into earpiece) Somebody’s gotta get outside and patch that engine.  105</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>MARIA HILL</RECEIVER>
+		<LINE>(into earpiece) Stark, you copy that?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>(over Fury’s earpiece) I’m on it.  106</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>(over Coulson’s earpiece) Coulson, initiate defensive lock down in the contingent center. Then get to the armory.  107</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>(into earpiece) Romanoff!  108</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>(into earpiece) Okay!  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>(to three of his men) Keep that engine down. (to two others) Detention, wait for camera to go dark. (to last two) Stay close.  111</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>Find engine three. I’ll meet you there.  Cap peels off as Tony approaches a tech room. Inside, Tony’s IRON MAN suit stands waiting, lit from above in all its glory.  112</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Doctor? Bruce, you gotta fight it. This is just what Loki wants. We’re gonna be okay. Listen to me.  Two MAINTENANCE GUYS run in.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>MAINTENANCE GUY</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>You hurt?  Natasha waves them away.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>MAINTENANCE GUY</RECEIVER>
+		<LINE>We’re gonna be okay. Right? I swear on my life I will get you out of this, you will walk away, and never ever --</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>(growling) Your life?  His voice has the change in it -- the bitter amusement is morphing to a growled threat. Banner begins to transform into the Hulk, shirt tearing, he throws himself away from Romanoff, who looks terrified, then he turns to look at her, transforming -- just as the lights go out.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Bruce.  The transformation completes and Banner’s alter ego, the Hulk, gets unsteadily to his feet, and roars. Romanoff wrenches her foot free and stands looking -- and the Hulk turns to look at her. She turns and runs up the catwalk stairs as the Hulk chases her.  She swings over a catwalk, and rolls under a turbine, as the Hulk tears down the stairs. Natasha jumps through small places as the Hulk grabs after her, roaring loudly. She crawls away under pipes.  113</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Bring the carrier to a one-eight-zero south. Take us to the water.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SHIELD AGENT</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>We’re blind. Navigation re calibrated after the engine failure.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>SHIELD AGENT</RECEIVER>
+		<LINE>Is the sun coming up?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SHIELD AGENT</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Yes, sir.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>SHIELD AGENT</RECEIVER>
+		<LINE>Then put us on the left. Get us over water. One more turbine goes down then we drop.  115</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Stark! Stark, I’m here.  Tony, in full Iron Man armor flies close to the engine.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>IRON MAN</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Good. Let’s see what we got.  He begins to examine the engine, his suit scanning through the different levels of machinery.  INSIDE IRON MAN HELMET:</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>IRON MAN</RECEIVER>
+		<LINE>(to himself) I gotta get this super conducting cooling system back online before I can access the rotors, work on dislodging the debris.  BACK TO SCENE:</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>IRON MAN</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>(to Steve) I need you to get to that engine control panel and tell me which relays are in overload position.  Rogers jumps and swings himself over to the control panel and opens it up while Iron Man works on the engine.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>IRON MAN</RECEIVER>
+		<LINE>(over Steve’s earpiece) What’s it look like in there?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>It seems to run on some form of electricity.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Well, you’re not wrong.  116</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>We’re not your enemies, Banner! Try to think!  Hulk punches Thor across the room and through a container.  118</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>(over Iron Man’s helmet) ’Kay, the relays are intact.  Cap pushes the engine control panel back in.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>What’s our next move?  The CAMERA PULLS OUT a bit  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>IRON MAN</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Even if I clear the rotors, this thing won’t re-engage without a jump....  INSIDE IRON MAN HELMET:</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>IRON MAN</RECEIVER>
+		<LINE>...I’m gonna have to get in there and push.  BACK TO SCENE:</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Well, if that thing gets up to speed, you’ll get shredded!  BEGIN INTERCUT: IRON MAN HELMET / STEVE</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Then stay in the control unit and reverse polarity long enough to disengage maglev and that should-</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Speak English!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>See that red lever?  Cap looks to his side. (over Steve’s earpiece) It’ll slow the rotors down long enough for me to get out.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Stand by it, wait for my word.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>END INTERCUT</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Rogers makes his way over to the lever.  119</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>END INTERCUT</RECEIVER>
+		<LINE>We need full evac on the lower hangar bed.  Hill nods and walks up and signals some agents. A small device rolls over to their feet.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>MARIA HILL</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>GRENADE!  The device explodes sending agents flying. In the smoke, Loki’s men enter, guns at the ready. Fury knocks one out, using his gun to shoot at another. While he is taking care of a third, a forth man enters and is about to fire when Hill shoots him in the head. She is pissed and bleeding.  121</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>INTERCOM VOICE</SPEAKER>
+		<RECEIVER>MARIA HILL</RECEIVER>
+		<LINE>We’ve got perimeter breach. Hostiles are in SHIELD gear. Call out to every junction.  Coulson pushes down on a switch and scans his eyeball.  122</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>INTERCOM VOICE</SPEAKER>
+		<RECEIVER>INTERCOM VOICE</RECEIVER>
+		<LINE>We’ve got the Hulk and Thor on Research Level Four. Levels Two and Three are gone.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>MARIA HILL</SPEAKER>
+		<RECEIVER>INTERCOM VOICE</RECEIVER>
+		<LINE>Sir, the Hulk will tear this place apart!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>MARIA HILL</RECEIVER>
+		<LINE>Get his attention.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>MARIA HILL</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>(into earpiece) Escort 6-Oh, proceed to Wishbone and...  124</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>MARIA HILL</SPEAKER>
+		<RECEIVER>MARIA HILL</RECEIVER>
+		<LINE>(over jet radio) ...engage hostile. Don’t get too close.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>YOUNG SHIELD PILOT</SPEAKER>
+		<RECEIVER>MARIA HILL</RECEIVER>
+		<LINE>Copy.  The jet flies to where Hulk and Thor are fighting, seemingly evenly matched.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>YOUNG SHIELD PILOT</SPEAKER>
+		<RECEIVER>YOUNG SHIELD PILOT</RECEIVER>
+		<LINE>Target acquired. Target engaged.  He fires his guns toward Hulk. The barrage of bullets bounce off of Hulk. He roars, running at the window. Hulk crashes through it, leaping at the jet. Target angry. Target angry.  Hulk lands on the nose of the jet and tears at the metal as it swerves in the air. The pilot tries to eject himself but the Hulk grabs him and throws him off to the side. The pilot’s parachute opens and the plane explodes, sending Hulk plummeting to the earth.  125</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>YOUNG SHIELD PILOT</RECEIVER>
+		<LINE>(to himself) They are not getting through here so what the-  Barton fires arrows from above and they explode. He fires another which hits the control panel. Fury sees him and begins to shoot, while the arrow, having hit a plug, hacks the helicarrier systems, causing a second engine to malfunction, it’s dead.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>INTERCOM VOICE</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Engine One is now in shutdown.  The helicarrier tilts dangerously. Everyone in the bridge begins rolling.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SHIELD WORKER</SPEAKER>
+		<RECEIVER>INTERCOM VOICE</RECEIVER>
+		<LINE>Sir, we’ve lost all power in Engine One.  127</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>SHIELD WORKER</RECEIVER>
+		<LINE>(over Natasha’s earpiece) It’s Barton, he took out our systems. He’s headed for the detention lab. Does anybody copy?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>(into earpiece) This is Agent Romanoff. I copy.  Natasha staggers to her feet. Ready.   85.  128</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>(over earpiece) Stark, we’re losing altitude.  INSIDE IRON MAN HELMET:</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Yep, noticed.  BACK TO SCENE:  Iron Man flies in between the rotors and begins to push, slowly picking up speed as sparks fly.  Cap is forced over the edge by a gunman and falls -- almost dropping off the carrier, hanging on by a wire.  129</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Are you ever not going to fall for that?  130</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>(laughs) The humans think us immortal. Shall we test that?  Loki moves to open the chute beneath the cell, dropping Thor to, what for any regular person, would be certain death. Coulson suddenly appears, wielding a large prototype Phase Two weapon.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>Move away please.  Loki steps back from the panel. Coulson gestures to the gun. Do you like this? We started working on the prototype after you sent the Destroyer. Even I don’t know what it does. Do you wanna find out?  Coulson prepares to fire the weapon when Loki disappears, reappearing behind him and thrusting the point of his spear through Coulson’s chest. He yells and drops to the floor.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>NO!  Loki returns to the panel, opening the chute and pressing the button which sends the cell, and Thor, falling from the ship.  132</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>Natasha!  She sends him a left hook.   87.  133</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>You’re going to lose.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>Am I?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>It’s in your nature,</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>your heroes are scattered, your floating fortress falls from the sky. Where is my disadvantage?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>You lack conviction.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>I don’t think I-  Coulson fires the weapon, which shoots a blast of fire similar to that of the Destroyer, sending Loki flying through a wall.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>So that’s what it does.   88.  137</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>INTERCOM VOICE</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>All hands to your stations immediately.  138</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>INTERCOM VOICE</RECEIVER>
+		<LINE>Cap hit the lever!  INTERCUT: CAP / IRON MAN HELMET  Cap still hangs from the side of the ship by a power cord.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>i need a minute here!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Lever! Now!  Cap hauls himself up.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>END INTERCUT</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Iron Man is pushed back up against one of the rotors, now spinning too fast for him to escape.  INSIDE IRON MAN HELMET:  TONY (CONT’D) Uh-oh.  BACK TO SCENE:  Iron Man is sucked into the blades and is spun wildly around before Cap manages to pull the lever and he is able to fly out. He manages to right himself and flies back to the ship, taking out the gunman shooting at Cap.   89.  139</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>END INTERCUT</RECEIVER>
+		<LINE>I’m sorry boss. They got rabbited.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>Just stay awake. Eyes on me.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Oh I’m clockin’ out here.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>Not an option.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>AGENT COULSON</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>It’s okay, boss. This was never gonna work- if they didn’t have something- to  His breathing halts and Fury stands to let the medical team through. He leans against the railing.  141</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>AGENT COULSON</RECEIVER>
+		<LINE>(over Hill’s earpiece) Agent Coulson is down.  Hill pushes the doctor away.  142</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SHIELD WORKER</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>(over Natasha’s earpiece) A medical team is on its way to your location.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>SHIELD WORKER</RECEIVER>
+		<LINE>(over Natasha’s earpiece) They’re here.   90.  143</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>(over their earpiece) They called it.  144</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>These were in Phil Coulson’s jacket. Guess he never did get you to sign them.  Fury scatters them on the table. Some are wet with blood. We’re dead in the air up here. Our communications, location of the cube, Banner, Thor. I got nothing for you. Lost my one good eye. Think I had that coming.  Fury begins to make his way around the table to Steve and Tony. Yes, we were going to build an arsenal with the Tesseract. I never put all my chips on that number, though, because I was playing something even riskier. There was an idea, Stark knows this, called the Avengers Initiative.  Fury reaches a chair between Tony and Steve The idea was to bring together a group of remarkable people, see if they could become something more. See if they could work together when we needed them to, to fight the battles that we never could. Phil Coulson died still believing in that idea, in heroes.  Tony stands and walks out. Well, it’s an old fashioned notion.   91.  145</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SECURITY GUARD</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>You fell out of the sky.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>SECURITY GUARD</RECEIVER>
+		<LINE>Did I hurt anyone?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SECURITY GUARD</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>There’s nobody around here to get hurt. You did scare the hell out of some pigeons though.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>SECURITY GUARD</RECEIVER>
+		<LINE>Lucky.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SECURITY GUARD</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Or just good aim. You were awake when you fell.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>SECURITY GUARD</RECEIVER>
+		<LINE>You saw?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SECURITY GUARD</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>The whole thing, right through the ceiling. Big and green and buck ass nude. Here-  SECURITY GUARD throws Banner a some clothes, which he begins to pull on. didn’t think those would fit you until you shrunk down to a regular size fella.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>SECURITY GUARD</RECEIVER>
+		<LINE>Thank you.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SECURITY GUARD</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Are you an alien?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>SECURITY GUARD</RECEIVER>
+		<LINE>What?  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SECURITY GUARD</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>From outer space, an alien?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>SECURITY GUARD</RECEIVER>
+		<LINE>No.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SECURITY GUARD</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Well then, son, you’ve got a condition.  Banner steps down from the pile of rubble in the warehouse, pulling on the shirt.  SECURITY GUARD (CONT’D) So, which one is it?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>SECURITY GUARD</RECEIVER>
+		<LINE>Sorry?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SECURITY GUARD</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Are you a big guy that gets all little, or a little guy that, ah- sometimes blows up large?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>SECURITY GUARD</RECEIVER>
+		<LINE>You know- I’m not even sure.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SECURITY GUARD</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>You got somewhere to go?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>SECURITY GUARD</RECEIVER>
+		<LINE>Stark Tower. I- no.  The Security Guard looks at him. Yes.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SECURITY GUARD</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>I’d expect some confusion of the mind, since your body’s kind of all over the place, but it has to be one or the other.  The Security Guard gestures Banner to follow him.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>SECURITY GUARD</RECEIVER>
+		<LINE>I know where I could do the most good, but it’s where I can do the most harm.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SECURITY GUARD</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Well, that’s no different than anybody else.  They walk out the doors.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>SECURITY GUARD</RECEIVER>
+		<LINE>I don’t know which way to go.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SECURITY GUARD</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Your mind’s already made up, son. The rest of you will follow.  147</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>SECURITY GUARD</RECEIVER>
+		<LINE>Clint, you’re gonna be alright.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>You know that? Is that what you know? I gotta go in though. I have to flush him out.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>You gotta level out, it’s gonna take time.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>You don’t understand. Have you ever had someone take your brain and play? Pull you out and stuff something else in? You know what it’s like to be unmade?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>You know that I do.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Why am I back? How did you get him out?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>Cognitive recalibration. I hit you really hard in the head.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Thanks.  Natasha begins to remove the strap restraints. Natasha, how many agents?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>Don’t. Don’t do that to yourself, Clint. This is Loki. This is monsters and magic and nothing we were ever trained for.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Loki. He get away?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>Yeah. I don’t suppose you know where?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Didn’t need to know. Didn’t ask. He’s gonna make his play soon though. Today.  Natasha walks to the door.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>We gotta stop him.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Yeah? Who’s we?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>I don’t know. Whoever is left.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Well, if I put an arrow through Loki’s eye socket I’d sleep better I suppose.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>Now you sound like you.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>But you don’t. You’re a spy, not a soldier. Now you want to wade into a war. Why? What did Loki do to you?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>He didn’t, I just-  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Natasha.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>I’ve been compromised. I got red in my ledger. I’d like to wipe it out.  148</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Was he married?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>No. There was a uh- cellist, I think.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>I’m sorry. He seemed like a good man.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>He was an idiot.  Tony and Steve slowly move toward each other.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Why? For believing?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>For taking on Loki alone.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>He was doing his job.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>He was out of his league. He should have waited. He should have-</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Sometimes there isn’t a way out, Tony.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Right. How did that work for him?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Is this the first time you’ve lost a soldier?  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>We are not soldiers! I’m not marching to Fury’s fife.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Neither am I. He’s got the same blood on his hands that Loki does, but right now we gotta put that behind us and get this done. Now Loki needs a power source, if we can put together a list-  Tony looks down at the place Coulson fell, there is a dent in the wall.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>He made it personal.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>That’s not the point.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>That is the point. That’s Loki’s point. He hit us all right where we live. Why?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>To tear us apart.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Yeah, divide and conquer is great but- he knows he has to take us out to win, right? That’s what he wants. He wants to beat us, he wants to be seen doing it. He wants an audience.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Right. I caught his act in Stuttgart.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Yeah. That’s just previews, this is- this is opening night. And Loki, he’s a full-tail diva. He wants flowers, he wants parades, he wants a monument built to the skies with his name plastered....Son of-a-bitch.   97.  149</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Time to go.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>Go where?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>I’ll tell you on the way. Can you fly one of those jets?  Barton enters from the restroom, drying his hands.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>I can.  Cap looks at Natasha, who nods.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>Got a suit?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>Yeah.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>Then suit up.  SERIES OF SHOTS:  A) In the field, Thor lifts Mjolnir to the skies.  B) Cap straps his shield onto his back.  C) Barton puts on his quiver.  D) Natasha powers up her Widow’s Bite. Her bracelets light up.  E) Tony is in a workshop making repairs to his helmet. Agents walk by in the background. The helmet lights up.  F) Thor summons a bolt of lightening. The field grows dark, with clouds. His armor slowly begins to fly on.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>END OF SERIES OF SHOTS</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>151</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SHIELD ENGINEER</SPEAKER>
+		<RECEIVER>END OF SERIES OF SHOTS</RECEIVER>
+		<LINE>Hey, you guys aren’t authorized to be in here.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>SHIELD ENGINEER</RECEIVER>
+		<LINE>Son, just don’t!  152</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>MARIA HILL</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>Sir.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>MARIA HILL</RECEIVER>
+		<LINE>Agent Hill.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>MARIA HILL</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Those cards, they were in Coulson’s locker, not in his jacket.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>MARIA HILL</RECEIVER>
+		<LINE>(staring at the cards) They needed the push.  He sees the quinjet and Iron Man take off towards the city.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>INTERCOM VOICE</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>We’ve got unauthorized departure from Bay Six.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>INTERCOM VOICE</RECEIVER>
+		<LINE>They found it. Get our communications back up, whatever you have to do. I want eyes on everything.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>MARIA HILL</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Yes, sir.   99.  153</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>JARVIS</SPEAKER>
+		<RECEIVER>MARIA HILL</RECEIVER>
+		<LINE>Sir, I turned off the arc reactor. The device is already self-sustaining</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>IRON MAN</SPEAKER>
+		<RECEIVER>JARVIS</RECEIVER>
+		<LINE>Shut it down, Dr. Selvig.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>JARVIS</SPEAKER>
+		<RECEIVER>IRON MAN</RECEIVER>
+		<LINE>It’s too late! She can’t stop now. She wants to show us something! A new universe.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>IRON MAN</SPEAKER>
+		<RECEIVER>JARVIS</RECEIVER>
+		<LINE>(annoyed) Okay.  He fires at the barrier around the device, but the Tesseract deflects it, sending the energy outwards, knocking Selvig out and Iron Man back.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>JARVIS</SPEAKER>
+		<RECEIVER>IRON MAN</RECEIVER>
+		<LINE>The barrier is pure energy. It’s unbreachable.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>IRON MAN</SPEAKER>
+		<RECEIVER>JARVIS</RECEIVER>
+		<LINE>Yeah, I got that.  Iron Man looks down to see Loki on the platform outside the penthouse. I’m beat.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>JARVIS</SPEAKER>
+		<RECEIVER>IRON MAN</RECEIVER>
+		<LINE>Sir, the Mark Seven is not ready for deployment.  INSIDE IRON MAN HELMET:</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>JARVIS</RECEIVER>
+		<LINE>Then skip the spinning rims, we’re on the clock.   100.  BACK TO SCENE: Tony lands and as his suit is deconstructed, he walks through into the tower penthouse, watching Loki carefully. Loki walks in as well.  155</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Please tell me you’re going to appeal to my humanity.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>Uh- actually, I’m planning to threaten you.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>You should have left your armor on for that.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>Yeah, it’s seen a bit of mileage. You’ve got the uh- blue stick of destiny. Would you like a drink?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Stalling me won’t change anything.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>No, no, no- threatening. No drink? You sure? I’m having one.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>The Chitauri are coming, nothing will change that. What have I to fear?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>The Avengers. It’s what we call ourselves, sort of like a team. ’Earth’s Mightiest Heroes’ type of thing.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Yes, I’m met them.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>Yeah, takes us a while to get any traction, I’ll give you that one. But, let’s do a head count here. Your brother, the Demi-God;  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>That was the plan.  Tony begins to walk to the center of the penthouse where Loki is.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>Not a great plan. When they come, and they will, they’ll come for you.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>I have an army.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>We have a Hulk.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Oh, I thought the beast had wandered off.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>Yeah- you’re missing the point. There’s no throne, there is no version of this, where you come out on top. Maybe your army comes and maybe it’s too much for us, but it’s all on you. ’Cause if we can’t protect the earth, you can be damned well sure we’ll avenge it.  Loki walks over to Tony, pointing his scepter.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>How will your friends have time for me, when they’re so busy fighting you?  Loki walks up to Tony, and places the tip of the scepter over his heart. It clinks against the arc reactor. This usually works.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>Well, performance issues. You know?  Loki grabs Tony by the throat and throws him across the room. JARVIS, anytime now.  Loki grabs Tony again.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>You will all fall before me.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>JARVIS. Deploy.  Loki sends Stark crashing through the window, and plummeting toward the ground.  TONY (O.S) Deploy!  Behind Loki, the Mark Seven suit goes rocketing past and out after Stark....  156</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>IRON MAN</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>And there’s one other person you pissed off! His name is Phil.  Iron Man fires a repulsor blast at Loki and he is knocked down. Meanwhile the device has powered up and shoots a stream of blue energy at the sky, which opens into a portal where the Chitauri army waits. The hoards of aliens begin to fly through.  INSIDE IRON MAN HELMET:</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>IRON MAN</RECEIVER>
+		<LINE>Right! Army.  157</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Loki, turn off the Tesseract or I’ll destroy it!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>You can’t. There is no stopping it. There is only the war!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>So be it.  Loki leaps at Thor and the two begin to fight, a blast from Loki’s scepter sending one of the letters of STARK falling to the ground.  162</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>(over HUD display) ...three heading north east.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>What, did you stop for drive-thru? Swing that park, I’m gonna lay ’em out for you.  164</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>JARVIS</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Sir, we have more incoming.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>JARVIS</RECEIVER>
+		<LINE>Fine. Let’s keep them occupied.  166</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Nat!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>I see ’em.  BACK TO SCENE:  Loki spots the jet. He throws Thor to the floor, then blasts one of the jet’s rotor blades with his scepter -- it catches fire. Thor sees, angry, charges Loki and tackles him as the quinjet falls to the ground. Loki and Thor throw punches.  INSIDE THE QUINJET:  Natasha and Barton hold on for their dear lives. Cap grabs a hold of the roof as the plane grazes buildings and crashes to the street.  Natasha and Barton remove their headsets, open the ramp, and Cap and them exit the jet.  168</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>We gotta get back up there.  They run onto the overpass, looking up at Stark Tower. They freeze as they see a giant armored Leviathan -- a warship of the Chitauri, flies through the portal with more warriors.  They warriors jump onto the side of buildings and into the buildings where they shoot civilians.  CAPTAIN AMERICA (CONT’D) Stark, are you seeing this?  TONY (V.O) Seeing. still working on believing...  INSIDE IRON MAN HELMET:</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>...Where’s Banner? Has he shown up yet?  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>(over radio) Banner?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>Just keep me posted.  BACK TO SCENE:  Iron Man flies after the Leviathan. JARVIS, find me a soft spot.  The Leviathan tears through buildings, roaring.  169</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Look at this! Look around you! You think this madness will end with your rule?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>It’s too late. It’s too late to stop it.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>No. We can, together.  Loki pauses, then slips a knife into his hand and stabs Thor.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>Sentiment!  Thor gets back up and lifts Loki, then drops him. Loki rolls himself off the edge of the building, only to land on one of the flying Chitauri crafts. He flies off with a troop of Chitauri.  170</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>We’ve got civilians trapped.  Loki flies over them on the flying crafts.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>Loki.  CUTAWAY TO STREETS: Loki and his following troop blowing up the streets. A JAPANESE FAMILY runs away as they are almost shot.  A flying craft flies through a Dr. Pepper truck.  Loki and the troop come to a busy street -- the one where the YOUNG COP and POLICE SERGEANT are at -- and blow up cars. The police and civilians run for their lives.  BACK TO OVERPASS: They’re fish in a barrel down there.  Natasha stands and fires both her guns at an incoming group of Chitauri.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>We got this. It’s good. Go!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>You think you can hold them off?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>Captain, it would be my genuine pleasure.  Barton grabs a arrow and shoots it, hitting one alien in the head, the arrow quickly separates into more arrows, killing three Chitauri aliens.  Cap leaves the other two fighting and jumps off an overpass, rolling onto a bus and into the street.  Barton helps people off a bus as Natasha shoots her pistols at Chitauri. He runs over to Natasha and begins releasing arrows as she shoots.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>Just like Budapest all over again!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>You and I remember Budapest very differently.   108.  171</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>YOUNG COP</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>It’s gonna be an hour before they scramble the National Guard.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>POLICE SERGEANT</SPEAKER>
+		<RECEIVER>YOUNG COP</RECEIVER>
+		<LINE>National Guard!  The two duck to avoid a Chitauri blast.  POLICE SERGEANT (CONT’D) Does the army know what’s happening here?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>YOUNG COP</SPEAKER>
+		<RECEIVER>POLICE SERGEANT</RECEIVER>
+		<LINE>Do we?  Cap jumps down on the car in front of them.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>YOUNG COP</RECEIVER>
+		<LINE>(gesturing) You need men in these buildings. There are people inside and they can be running right into the line of fire. You take them to the basement or through the subway, you keep them off the streets. I need a perimeter as far back as 39th.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>POLICE SERGEANT</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>Why the hell should I take orders from you?  Two Chitauri warriors attack Cap, he fights them off easily then turns back to the two men. The two cops stand shock. The POLICE SERGEANT reacts and walks back to his men.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>POLICE SERGEANT</SPEAKER>
+		<RECEIVER>POLICE SERGEANT</RECEIVER>
+		<LINE>I need men in those buildings, lead the people down and away from the streets. (into radio) We gonna set up a perimeter all the way down to 39th street.  CUTAWAY TO IRON MAN:  Iron Man fires a stream of ammunition at the Leviathan, which turns to follow him.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>POLICE SERGEANT</RECEIVER>
+		<LINE>It noticed me...  BACK TO IRON MAN:</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>IRON MAN</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>...yay!  Stark flies off and the Leviathan follows him.  172</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>IRON MAN</RECEIVER>
+		<LINE>What’s the story upstairs?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>The power surrounding the cube is impenetrable.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>(over their earpieces) Thor is right, we gotta deal with these guys.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>How do we do this?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>As a team.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>I have unfinished business with Loki.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>(readying some arrows) Oh yeah! Get in line.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>Save it. Loki’s gonna keep this fight focused on us and that’s what we need. Without him these things could run wild. We got Stark up top, he’s gonna need us to-  He stops, seeing Banner arrive on a motorbike. Cap and the others walk over and Banner dismounts, surveying the damage.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>So, this all seems horrible.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>I’ve seen worse.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Sorry.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>No, we could- use a little worse.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>(into earpiece) Stark, we got him.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>(over Cap’s earpiece) Banner?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Just like you said.  INSIDE IRON MAN HELMET:</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>Then tell him to suit up. I’m bringing the party to you.  BACK TO SCENE:  Iron Man flies around a corner and towards the group, followed closely by the Leviathan.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>(stuttering) I don’t see how that’s a party.  Iron Man draws the creature low and it skims the road. Banner turns an begins to walk away, towards the Leviathan.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Doctor Banner, now might be a really good time for you to get angry.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BANNER</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>That’s my secret, Cap. I’m always angry.  Banner transforms into the Hulk and punches the Leviathan, smashing it into the ground.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>IRON MAN</SPEAKER>
+		<RECEIVER>BANNER</RECEIVER>
+		<LINE>Hold On!  Iron Man blasts a missile at the creature and it explodes. Barton ditches. Thor stands taking the blast. Cap shields Natasha. The Chitauri cry out.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>IRON MAN</RECEIVER>
+		<LINE>Send the rest.  The Avengers look up, watching as more Leviathans and hundreds of warriors fly through the portal.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>Guys?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>IRON MAN</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Call it, Captain.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>IRON MAN</RECEIVER>
+		<LINE>Alright, listen up. Until we can close that portal up there, we’re gonna use containment. Barton, I want you on that roof, eyes on everything. Call out patterns and strays. Stark, you got the perimeter. Anything gets more than three blocks out, you turn it back or you turn it to ash.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>(to Iron Man) Wanna give me a lift?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>IRON MAN</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>Right. Better clench up, Legolas.  Iron Man grabs Barton and flies him up to the top of a building, then flies off.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>IRON MAN</RECEIVER>
+		<LINE>Thor! You gotta try and bottleneck that portal, slow ’em down. You got the lightning, light the bastards up.  Thor swings Mjolnir, flying off.  CAPTAIN AMERICA (CONT’D) (to Natasha) You and me, we stay here on the ground, keep the fighting here. And Hulk!  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>MARIA HILL</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>Sir. The council is on.  175</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>MARIA HILL</RECEIVER>
+		<LINE>Stark. You gotta lot of strays on your tail.  176</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>Just tryin’ to keep them off the streets.  BEGIN INTERCUT: BARTON / INSIDE IRON MAN HELMET</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Well they can’t bank worth a damn.  Barton shoots at crafts. He misses, shooting behind his back without looking -- but the arrow hits another craft, causing it to explode.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>I will roger that.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>END INTERCUT</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Iron Man flies by Hawkeye who fires at the crafts, blowing them up. Iron Man swerves behind two crafts and fires at them. He continues taking a series of quick turns as the Chitauri quickly drop, crash, or follow.  INSIDE IRON MAN HELMET:  TONY (CONT’D) Oh- boy.  BACK TO SCENE: Iron Man goes flying through a tunnel and turns tightly at the end, sending the last few crafts crashing into a building.  INSIDE IRON MAN HELMET:</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>END INTERCUT</RECEIVER>
+		<LINE>Nice call. What else you got?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>(over radio) Well, Thor’s taking out a squadron down on 6th.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>And he didn’t invite me!  177</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Captain, none of this is gonna mean a damn thing if we don’t close that portal.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Our biggest guns couldn’t touch it.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>Well, maybe it’s not about guns.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>You wanna get up there, you’re gonna need a ride.  Natasha glances up, seeing the Chitauri crafts fly past. She makes her way over to the other side of the overpass.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>I got a ride. I could use a boost though.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>You sure about this?  Cap readies his shield in front of him.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>Yeah, it’s gonna be fun!  Natasha runs at Rogers, who uses his shield to boost her up. She grabs on to a passing Chitauri vehicle. Cap looks up as she flies off in the distance. He looks to his right and there are more warriors coming.  CUTAWAY: NATASHA ON A FLYING CRAFT  Natasha climbs aboard the craft, pulls a dagger and stabs a warrior. She spin kicks him off the craft. She makes her way to the other one and uses him to control the vehicle.  NATASHA (CONT’D) Turn, turn, Ah!  FOLLOWING SHOT:  Two crafts come up on Natasha, firing at her. She swerves to avoid them. The crafts are blasted away by Iron Man, who fires away at a fleet behind him. Iron Man takes a turn, coming up on the overpass, where he knocks Chitauri aliens over and lands by Cap, who is fighting and kicking Chitauri. Cap lifts his shield. Iron Man reflects a repulsor blast off the shield, taking out the surrounding warriors. He then flies up the side of a building, hitting more warriors.  At the top of which Barton fires into the head of a Chitauri. Two blast are fired at him. He ducks and returns a shot by firing an arrow. The arrow hits the pilot of a craft which falls and gets hit by a Leviathan.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>(over earpiece) Captain, the bank on 42nd, past Madison. They cornered a lot of civilians in there.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>I’m on it.  Cap walks off.  183</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>CAPTAIN AMERICA</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>Everyone clear out!  He is then grabbed by a warrior, who he fights and breaks free. A grenade-like device goes off and it blasts Cap out a window and onto a car after his mask is pulled back from his face. He stands silently while police lead the civilians from the building.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>CAPTAIN AMERICA</RECEIVER>
+		<LINE>(angry) I recognize the council has made a decision, but given that it’s a stupid ass decision, I’ve elected to ignore it.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>COUNCILMAN</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Director, you’re closer than any of our subs, you scramble that jet-  Hill is breathing nervously, panicking, as she listens and watches.  FURY (O.S) (angry) That is the island of Manhattan, Councilman.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>COUNCILMAN</RECEIVER>
+		<LINE>(angry) Until I’m certain my team can’t hold it, I will not order a nuclear strike against a civilian population.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>COUNCILMAN</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>If we don’t hold them in the air, we lose everything.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>COUNCILMAN</RECEIVER>
+		<LINE>I’d send that bird out, we already have.  Fury hangs up on them.  185</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Oh you! (into radio) Hawkeye!  186</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Nat, what are you doing?  BEGIN INTERCUT: NATASHA / BARTON</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>Uh, a little help!  Barton nocks an arrow, waiting for Natasha and Loki to come past.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>BARTON</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>I got it.  Barton aims and fires. Loki catches the arrow inches from his face and looks first at it, then at Barton, smirking. The arrow explodes, sending Loki crashing onto the platform at the top of Stark Tower.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>END INTERCUT</SPEAKER>
+		<RECEIVER>BARTON</RECEIVER>
+		<LINE>Natasha jumps off the craft. She flips in the air, landing onto...  187</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>END INTERCUT</RECEIVER>
+		<LINE>ENOUGH! You are, all of you, beneath me! I AM GOD, YOU DULL CREATURE, AND I WILL NOT BE BULLIED BY-  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>HULK</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>Puny God.  Loki whimpers in pain. He has been beaten into submission.  190</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>HULK</RECEIVER>
+		<LINE>Doctor.  She kneels.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SELVIG</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Loki’s scepter, the energy- the Tesseract can’t fight. You can’t protect against yourself.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>SELVIG</RECEIVER>
+		<LINE>It’s not your fault. You didn’t know what you were doing.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SELVIG</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Well, actually I think I did. I built in a safety to cut the power source.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>SELVIG</RECEIVER>
+		<LINE>Loki’s scepter.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SELVIG</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>It may be able to close the portal. And I’m looking right at it.  Selvig looks down to the platform below, where Loki’s scepter lies dropped from when Hulk took him out.  191</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>JARVIS</SPEAKER>
+		<RECEIVER>SELVIG</RECEIVER>
+		<LINE>Sir, we will lose power before we penetrate that shell.  Iron Man pulls away from the Leviathan. He flies fast.  INSIDE IRON MAN HELMET:</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>JARVIS</RECEIVER>
+		<LINE>JARVIS, you ever hear the tale of Jonah?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>JARVIS</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>I wouldn’t consider him a role model.  BACK TO SCENE: Iron Man’s knee plates open, pushing out blades. He is heading directly toward the creature’s mouth. He flies through it. Blowing up the creature’s insides and out the tail end. He crashes to the ground but gets to his feet, only to be shot down again by warriors.  192</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>COUNCILWOMAN</SPEAKER>
+		<RECEIVER>JARVIS</RECEIVER>
+		<LINE>(over radio) Director Fury is no longer in command. Override seven-alpha-one-one.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>JET PILOT</SPEAKER>
+		<RECEIVER>COUNCILWOMAN</RECEIVER>
+		<LINE>Seven-alpha-one-one confirmed. We’re go for takeoff.  195</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>MARIA HILL</SPEAKER>
+		<RECEIVER>JET PILOT</RECEIVER>
+		<LINE>(to Fury) SIR, WE HAVE A BIRD IN MOTION!  Fury runs out of the bridge. (into earpiece) Anyone on the deck we have a rogue bird. We need to shut it down! Repeat, takeoff is not authorized!  196</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>MARIA HILL</RECEIVER>
+		<LINE>Stark, you hear me? You have a missile headed straight for the city.  198</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>IRON MAN</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>How long?  INSIDE IRON MAN HELMET:</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>IRON MAN</RECEIVER>
+		<LINE>(over radio) Three minutes. Max. Stay load can wipe out mid-town.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>JARVIS, put everything we got into the thrusters.  BACK TO SCENE:  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>JARVIS</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>I just did.  Iron Man blasts away warriors and flies off elsewhere.  199</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>JET PILOT</SPEAKER>
+		<RECEIVER>JARVIS</RECEIVER>
+		<LINE>Package is sent. Detonation in two minutes, thirty seconds. Mark.  200</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>JET PILOT</RECEIVER>
+		<LINE>You ready for another bout?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>What, you gettin’ sleepy?  202</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>SELVIG</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Right at the crown!  Natasha begins to push the spear through the barrier surrounding the cube, it’s hard to break.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>SELVIG</RECEIVER>
+		<LINE>(into earpiece) I can close it. Can anybody copy? I can shut the portal down!   123.  203</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Do it!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>(over Cap’s earpiece) No, wait.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Stark, these things are still coming!  INSIDE IRON MAN HELMET:</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>I got a nuke coming in, it’s gonna blow in less than a minute.  204</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>And I know just where to put it.  BACK TO SCENE:  Iron Man grabs hold of it he begins to redirect it toward the city.  INSIDE IRON MAN HELMET:</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>(over radio) Stark, you know that’s a one way trip.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Save the rest for the turn J.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>JARVIS</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>Sir, shall I try Miss Potts?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>JARVIS</RECEIVER>
+		<LINE>Might as well.   124.  205</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>JARVIS</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>(cutting off) Sorry, Miss-  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>NATASHA</SPEAKER>
+		<RECEIVER>JARVIS</RECEIVER>
+		<LINE>Come on, Stark.  CUTAWAY TO CAP:</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>NATASHA</RECEIVER>
+		<LINE>Close it.  BACK TO SCENE:  Natasha plunges the scepter into the heart of the device. Just as the portal closes, Tony falls through back to earth.  The Avengers look up and see Tony reappear.  ON CAP AND THOR:</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Son of a gun!  Iron Man plummets to the ground.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>He’s not slowing down.  Thor prepares to fly at Stark and catch him when the Hulk grabs him out of the air, slides down the side of a building and crashes to the ground in front of Thor and Cap.  Hulk throws Iron Man off him and Thor and Cap run over. Thor pulls off Iron Man’s face plate and Cap listens for a heartbeat, then sees the arc reactor is not glowing. Suddenly the Hulk roars and beats his chest. Tony, shocked, gasps and opens his eyes, looking around.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>What the hell? What just happened? Please tell me nobody kissed me.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STEVE</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>We won.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>STEVE</RECEIVER>
+		<LINE>Alright, Hey. Alright. Good job, guys. Let’s just not come in tomorrow. Let’s just take a day. You ever tried shawarma? There’s a shawarma joint about two blocks from here. I don’t know what it is, but I wanna try it.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THOR</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>We’re not finished yet.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>TONY</SPEAKER>
+		<RECEIVER>THOR</RECEIVER>
+		<LINE>And then shawarma after?  212</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>LOKI</SPEAKER>
+		<RECEIVER>TONY</RECEIVER>
+		<LINE>If it’s all the same to you, I’ll have that drink now.  213</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>MALE REPORTER</SPEAKER>
+		<RECEIVER>LOKI</RECEIVER>
+		<LINE>...devastation of what has been confirmed as an extraterrestrial attack, the extraordinary heroics of the group known as the Avengers-  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>MALE CITIZEN</SPEAKER>
+		<RECEIVER>MALE REPORTER</RECEIVER>
+		<LINE>It’s really great knowing they’re out there, you know. That someone’s watching over us.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FEMALE CITIZEN</SPEAKER>
+		<RECEIVER>MALE CITIZEN</RECEIVER>
+		<LINE>I love you, Thor!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>HUSBAND</SPEAKER>
+		<RECEIVER>FEMALE CITIZEN</RECEIVER>
+		<LINE>I just don’t feel safe with those thing out there.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>WIFE</SPEAKER>
+		<RECEIVER>HUSBAND</RECEIVER>
+		<LINE>It seems like there’s a lot they’re not telling us.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>STAN LEE</SPEAKER>
+		<RECEIVER>WIFE</RECEIVER>
+		<LINE>Superheroes? In New York? Give me a break!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THE SENATOR</SPEAKER>
+		<RECEIVER>STAN LEE</RECEIVER>
+		<LINE>These so called heroes have to be held responsible for the destruction done to the city. This was their fight. Where are they now?  215</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>WAITRESS</SPEAKER>
+		<RECEIVER>THE SENATOR</RECEIVER>
+		<LINE>Captain America saved my life. Wherever he is, and wherever any of them are, I would just- I would wanna say thank you.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>WAITRESS</RECEIVER>
+		<LINE>I’m not currently tracking their whereabouts. I’d say they’ve earned a leave of absence.  COUNCILWOMAN (O.S) And the Tesseract?  CUTAWAY TO CENTRAL PARK:  Selvig take a glass cylinder out of a truck. Tony opens his case, which is on the ground. Banner holds the Cube with some tongs and puts it into the glass cylinder Selvig has. Over this footage...  FURY (V.O) The Tesseract is where belongs...out of our reach.  BACK TO SCENE:</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>COUNCILMAN</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>That’s not your call.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>COUNCILMAN</RECEIVER>
+		<LINE>I didn’t make it. I just didn’t argue with the god that did.  CUT BACK TO CENTRAL PARK:  Thor is smiling as he shakes hands and says goodbye to Selvig.  COUNCILMAN (V.O) So you let him take it...  Loki is bound and gagged in the muzzle, he is mad. As he looks upon Natasha, she whispers something into Barton’s ear that makes him smile.  COUNCILMAN (V.O) and the war criminal Loki, who should be answering for his crime.  FURY (V.O) Oh I think he will be.  </LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Every world knows it!</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>COUNCILMAN</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Was that the point in all this? A statement.  CUTAWAY TO STEVE:  Steve is riding a motorcycle. He smiles.  FURY (V.O) A promise.  BACK TO FURY:  The council signs off and Fury exits the room.  MARIA HILL (V.O) Sir, how does it work now...?   130.  217</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>MARIA HILL</SPEAKER>
+		<RECEIVER>COUNCILMAN</RECEIVER>
+		<LINE>...They’ve gone their separate ways, some pretty extremely far. We get into a situation like this again, what happens then?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>MARIA HILL</RECEIVER>
+		<LINE>They’ll come back!  The reach the air deck.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>MARIA HILL</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Really sure about that?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>MARIA HILL</RECEIVER>
+		<LINE>I am.  Fury looks out over the helicarrier.</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>MARIA HILL</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>Why?</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>FURY</SPEAKER>
+		<RECEIVER>MARIA HILL</RECEIVER>
+		<LINE>Because we’ll need them to.  Hill nods, in respect. She turns and walks back over the bridge and takes a folder from a SHIELD agent. Fury stands proud on the air deck.  218</LINE>
+	</SPEECH>
+	<SPEECH>
+		<SPEAKER>THE OTHER</SPEAKER>
+		<RECEIVER>FURY</RECEIVER>
+		<LINE>The humans, they are not the cowering wretches we were promised. They stand. They are unruly and therefore cannot be ruled.  DISEMBODIED FIGURE in a chair stands. The Other bows, like he is in pain.  THE OTHER (CONT’D) To challenge them, is to court Death.  DISEMBODIED FIGURE turns and smiles, revealing himself to be the mad titan himself-  THANOS.  CREDITS ROLL.  221</LINE>
+	</SPEECH>
+</PLAY>
